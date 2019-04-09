@@ -1,0 +1,9 @@
+C:\Users\obege\source\testing-samples\3\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+C:\Users\obege\source\testing-samples\3\Services\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\obege\source\testing-samples\3\Services\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\obege\source\testing-samples\3\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+C:\Users\obege\source\testing-samples\3\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\obege\source\testing-samples\3\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+C:\Users\obege\source\testing-samples\3\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+C:\Users\obege\source\testing-samples\3\Services\obj\Debug\netcoreapp2.1\Services.dll
+C:\Users\obege\source\testing-samples\3\Services\obj\Debug\netcoreapp2.1\Services.pdb

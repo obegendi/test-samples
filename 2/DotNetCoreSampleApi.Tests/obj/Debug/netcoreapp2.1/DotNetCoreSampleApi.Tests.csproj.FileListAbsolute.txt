@@ -1,0 +1,17 @@
+C:\Users\obege\source\testing-samples\2\DotNetCoreSampleApi.Tests\bin\Debug\netcoreapp2.1\DotNetCoreSampleApi.dll
+C:\Users\obege\source\testing-samples\2\DotNetCoreSampleApi.Tests\obj\Debug\netcoreapp2.1\DotNetCoreSampleApi.Tests.csprojAssemblyReference.cache
+C:\Users\obege\source\testing-samples\2\DotNetCoreSampleApi.Tests\obj\Debug\netcoreapp2.1\DotNetCoreSampleApi.Tests.csproj.CoreCompileInputs.cache
+C:\Users\obege\source\testing-samples\2\DotNetCoreSampleApi.Tests\obj\Debug\netcoreapp2.1\DotNetCoreSampleApi.Tests.AssemblyInfoInputs.cache
+C:\Users\obege\source\testing-samples\2\DotNetCoreSampleApi.Tests\obj\Debug\netcoreapp2.1\DotNetCoreSampleApi.Tests.AssemblyInfo.cs
+C:\Users\obege\source\testing-samples\2\DotNetCoreSampleApi.Tests\bin\Debug\netcoreapp2.1\DotNetCoreSampleApi.Tests.deps.json
+C:\Users\obege\source\testing-samples\2\DotNetCoreSampleApi.Tests\bin\Debug\netcoreapp2.1\DotNetCoreSampleApi.Tests.runtimeconfig.json
+C:\Users\obege\source\testing-samples\2\DotNetCoreSampleApi.Tests\bin\Debug\netcoreapp2.1\DotNetCoreSampleApi.Tests.runtimeconfig.dev.json
+C:\Users\obege\source\testing-samples\2\DotNetCoreSampleApi.Tests\bin\Debug\netcoreapp2.1\DotNetCoreSampleApi.Tests.dll
+C:\Users\obege\source\testing-samples\2\DotNetCoreSampleApi.Tests\bin\Debug\netcoreapp2.1\DotNetCoreSampleApi.Tests.pdb
+C:\Users\obege\source\testing-samples\2\DotNetCoreSampleApi.Tests\bin\Debug\netcoreapp2.1\DotNetCoreSampleApi.pdb
+C:\Users\obege\source\testing-samples\2\DotNetCoreSampleApi.Tests\obj\Debug\netcoreapp2.1\DotNetCoreSampleApi.Tests.csproj.CopyComplete
+C:\Users\obege\source\testing-samples\2\DotNetCoreSampleApi.Tests\obj\Debug\netcoreapp2.1\DotNetCoreSampleApi.Tests.dll
+C:\Users\obege\source\testing-samples\2\DotNetCoreSampleApi.Tests\obj\Debug\netcoreapp2.1\DotNetCoreSampleApi.Tests.pdb
+C:\Users\obege\source\testing-samples\2\DotNetCoreSampleApi.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\obege\source\testing-samples\2\DotNetCoreSampleApi.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\obege\source\testing-samples\2\DotNetCoreSampleApi.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll

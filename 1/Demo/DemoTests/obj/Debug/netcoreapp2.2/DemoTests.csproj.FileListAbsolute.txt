@@ -1,0 +1,17 @@
+C:\Users\obege\source\testing-samples\1\Demo\DemoTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\obege\source\testing-samples\1\Demo\DemoTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\obege\source\testing-samples\1\Demo\DemoTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\obege\source\testing-samples\1\Demo\DemoTests\bin\Debug\netcoreapp2.2\DemoTests.deps.json
+C:\Users\obege\source\testing-samples\1\Demo\DemoTests\bin\Debug\netcoreapp2.2\DemoTests.runtimeconfig.json
+C:\Users\obege\source\testing-samples\1\Demo\DemoTests\bin\Debug\netcoreapp2.2\DemoTests.runtimeconfig.dev.json
+C:\Users\obege\source\testing-samples\1\Demo\DemoTests\bin\Debug\netcoreapp2.2\DemoTests.dll
+C:\Users\obege\source\testing-samples\1\Demo\DemoTests\bin\Debug\netcoreapp2.2\DemoTests.pdb
+C:\Users\obege\source\testing-samples\1\Demo\DemoTests\bin\Debug\netcoreapp2.2\Demo.dll
+C:\Users\obege\source\testing-samples\1\Demo\DemoTests\bin\Debug\netcoreapp2.2\Demo.pdb
+C:\Users\obege\source\testing-samples\1\Demo\DemoTests\obj\Debug\netcoreapp2.2\DemoTests.csprojAssemblyReference.cache
+C:\Users\obege\source\testing-samples\1\Demo\DemoTests\obj\Debug\netcoreapp2.2\DemoTests.csproj.CoreCompileInputs.cache
+C:\Users\obege\source\testing-samples\1\Demo\DemoTests\obj\Debug\netcoreapp2.2\DemoTests.AssemblyInfoInputs.cache
+C:\Users\obege\source\testing-samples\1\Demo\DemoTests\obj\Debug\netcoreapp2.2\DemoTests.AssemblyInfo.cs
+C:\Users\obege\source\testing-samples\1\Demo\DemoTests\obj\Debug\netcoreapp2.2\DemoTests.csproj.CopyComplete
+C:\Users\obege\source\testing-samples\1\Demo\DemoTests\obj\Debug\netcoreapp2.2\DemoTests.dll
+C:\Users\obege\source\testing-samples\1\Demo\DemoTests\obj\Debug\netcoreapp2.2\DemoTests.pdb

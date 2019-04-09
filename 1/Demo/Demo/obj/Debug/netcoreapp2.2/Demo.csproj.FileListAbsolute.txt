@@ -1,0 +1,9 @@
+C:\Users\obege\source\testing-samples\1\Demo\Demo\obj\Debug\netcoreapp2.2\Demo.csprojAssemblyReference.cache
+C:\Users\obege\source\testing-samples\1\Demo\Demo\obj\Debug\netcoreapp2.2\Demo.csproj.CoreCompileInputs.cache
+C:\Users\obege\source\testing-samples\1\Demo\Demo\obj\Debug\netcoreapp2.2\Demo.AssemblyInfoInputs.cache
+C:\Users\obege\source\testing-samples\1\Demo\Demo\obj\Debug\netcoreapp2.2\Demo.AssemblyInfo.cs
+C:\Users\obege\source\testing-samples\1\Demo\Demo\bin\Debug\netcoreapp2.2\Demo.deps.json
+C:\Users\obege\source\testing-samples\1\Demo\Demo\bin\Debug\netcoreapp2.2\Demo.dll
+C:\Users\obege\source\testing-samples\1\Demo\Demo\bin\Debug\netcoreapp2.2\Demo.pdb
+C:\Users\obege\source\testing-samples\1\Demo\Demo\obj\Debug\netcoreapp2.2\Demo.dll
+C:\Users\obege\source\testing-samples\1\Demo\Demo\obj\Debug\netcoreapp2.2\Demo.pdb

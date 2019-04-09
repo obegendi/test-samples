@@ -1,0 +1,14 @@
+C:\Users\obege\source\testing-samples\2\DotNetCoreSampleApi\bin\Debug\netcoreapp2.1\DotNetCoreSampleApi.deps.json
+C:\Users\obege\source\testing-samples\2\DotNetCoreSampleApi\bin\Debug\netcoreapp2.1\DotNetCoreSampleApi.runtimeconfig.json
+C:\Users\obege\source\testing-samples\2\DotNetCoreSampleApi\bin\Debug\netcoreapp2.1\DotNetCoreSampleApi.runtimeconfig.dev.json
+C:\Users\obege\source\testing-samples\2\DotNetCoreSampleApi\bin\Debug\netcoreapp2.1\DotNetCoreSampleApi.dll
+C:\Users\obege\source\testing-samples\2\DotNetCoreSampleApi\bin\Debug\netcoreapp2.1\DotNetCoreSampleApi.pdb
+C:\Users\obege\source\testing-samples\2\DotNetCoreSampleApi\obj\Debug\netcoreapp2.1\DotNetCoreSampleApi.csprojAssemblyReference.cache
+C:\Users\obege\source\testing-samples\2\DotNetCoreSampleApi\obj\Debug\netcoreapp2.1\DotNetCoreSampleApi.csproj.CoreCompileInputs.cache
+C:\Users\obege\source\testing-samples\2\DotNetCoreSampleApi\obj\Debug\netcoreapp2.1\DotNetCoreSampleApi.RazorAssemblyInfo.cache
+C:\Users\obege\source\testing-samples\2\DotNetCoreSampleApi\obj\Debug\netcoreapp2.1\DotNetCoreSampleApi.RazorAssemblyInfo.cs
+C:\Users\obege\source\testing-samples\2\DotNetCoreSampleApi\obj\Debug\netcoreapp2.1\DotNetCoreSampleApi.AssemblyInfoInputs.cache
+C:\Users\obege\source\testing-samples\2\DotNetCoreSampleApi\obj\Debug\netcoreapp2.1\DotNetCoreSampleApi.AssemblyInfo.cs
+C:\Users\obege\source\testing-samples\2\DotNetCoreSampleApi\obj\Debug\netcoreapp2.1\DotNetCoreSampleApi.RazorTargetAssemblyInfo.cache
+C:\Users\obege\source\testing-samples\2\DotNetCoreSampleApi\obj\Debug\netcoreapp2.1\DotNetCoreSampleApi.dll
+C:\Users\obege\source\testing-samples\2\DotNetCoreSampleApi\obj\Debug\netcoreapp2.1\DotNetCoreSampleApi.pdb

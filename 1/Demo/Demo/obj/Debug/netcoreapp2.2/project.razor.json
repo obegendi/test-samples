@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\obege\\source\\testing-samples\\1\\Demo\\Demo\\Demo.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

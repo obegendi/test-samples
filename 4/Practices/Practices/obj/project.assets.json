@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\obege\\source\\repos\\Practices\\Practices\\Practices.csproj",
+      "projectUniqueName": "C:\\Users\\obege\\source\\testing-samples\\4\\Practices\\Practices\\Practices.csproj",
       "projectName": "Practices",
-      "projectPath": "C:\\Users\\obege\\source\\repos\\Practices\\Practices\\Practices.csproj",
+      "projectPath": "C:\\Users\\obege\\source\\testing-samples\\4\\Practices\\Practices\\Practices.csproj",
       "packagesPath": "C:\\Users\\obege\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\obege\\source\\repos\\Practices\\Practices\\obj\\",
+      "outputPath": "C:\\Users\\obege\\source\\testing-samples\\4\\Practices\\Practices\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

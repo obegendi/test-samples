@@ -7,3 +7,12 @@ C:\Users\obege\source\repos\Practices\Practices\obj\Debug\netcoreapp2.2\Practice
 C:\Users\obege\source\repos\Practices\Practices\obj\Debug\netcoreapp2.2\Practices.AssemblyInfo.cs
 C:\Users\obege\source\repos\Practices\Practices\obj\Debug\netcoreapp2.2\Practices.dll
 C:\Users\obege\source\repos\Practices\Practices\obj\Debug\netcoreapp2.2\Practices.pdb
+C:\Users\obege\source\testing-samples\4\Practices\Practices\obj\Debug\netcoreapp2.2\Practices.csprojAssemblyReference.cache
+C:\Users\obege\source\testing-samples\4\Practices\Practices\obj\Debug\netcoreapp2.2\Practices.csproj.CoreCompileInputs.cache
+C:\Users\obege\source\testing-samples\4\Practices\Practices\obj\Debug\netcoreapp2.2\Practices.AssemblyInfoInputs.cache
+C:\Users\obege\source\testing-samples\4\Practices\Practices\obj\Debug\netcoreapp2.2\Practices.AssemblyInfo.cs
+C:\Users\obege\source\testing-samples\4\Practices\Practices\obj\Debug\netcoreapp2.2\Practices.dll
+C:\Users\obege\source\testing-samples\4\Practices\Practices\obj\Debug\netcoreapp2.2\Practices.pdb
+C:\Users\obege\source\testing-samples\4\Practices\Practices\bin\Debug\netcoreapp2.2\Practices.deps.json
+C:\Users\obege\source\testing-samples\4\Practices\Practices\bin\Debug\netcoreapp2.2\Practices.dll
+C:\Users\obege\source\testing-samples\4\Practices\Practices\bin\Debug\netcoreapp2.2\Practices.pdb

@@ -1,0 +1,16 @@
+C:\Users\obege\source\testing-samples\5\MvcSample\MvcSample\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\obege\source\testing-samples\5\MvcSample\MvcSample\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\obege\source\testing-samples\5\MvcSample\MvcSample\bin\Debug\netcoreapp2.1\MvcSample.deps.json
+C:\Users\obege\source\testing-samples\5\MvcSample\MvcSample\bin\Debug\netcoreapp2.1\MvcSample.runtimeconfig.json
+C:\Users\obege\source\testing-samples\5\MvcSample\MvcSample\bin\Debug\netcoreapp2.1\MvcSample.runtimeconfig.dev.json
+C:\Users\obege\source\testing-samples\5\MvcSample\MvcSample\bin\Debug\netcoreapp2.1\MvcSample.dll
+C:\Users\obege\source\testing-samples\5\MvcSample\MvcSample\bin\Debug\netcoreapp2.1\MvcSample.pdb
+C:\Users\obege\source\testing-samples\5\MvcSample\MvcSample\obj\Debug\netcoreapp2.1\MvcSample.csprojAssemblyReference.cache
+C:\Users\obege\source\testing-samples\5\MvcSample\MvcSample\obj\Debug\netcoreapp2.1\MvcSample.csproj.CoreCompileInputs.cache
+C:\Users\obege\source\testing-samples\5\MvcSample\MvcSample\obj\Debug\netcoreapp2.1\MvcSample.RazorAssemblyInfo.cache
+C:\Users\obege\source\testing-samples\5\MvcSample\MvcSample\obj\Debug\netcoreapp2.1\MvcSample.RazorAssemblyInfo.cs
+C:\Users\obege\source\testing-samples\5\MvcSample\MvcSample\obj\Debug\netcoreapp2.1\MvcSample.AssemblyInfoInputs.cache
+C:\Users\obege\source\testing-samples\5\MvcSample\MvcSample\obj\Debug\netcoreapp2.1\MvcSample.AssemblyInfo.cs
+C:\Users\obege\source\testing-samples\5\MvcSample\MvcSample\obj\Debug\netcoreapp2.1\MvcSample.RazorTargetAssemblyInfo.cache
+C:\Users\obege\source\testing-samples\5\MvcSample\MvcSample\obj\Debug\netcoreapp2.1\MvcSample.dll
+C:\Users\obege\source\testing-samples\5\MvcSample\MvcSample\obj\Debug\netcoreapp2.1\MvcSample.pdb

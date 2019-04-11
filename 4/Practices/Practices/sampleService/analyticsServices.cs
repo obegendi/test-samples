@@ -21,7 +21,7 @@ namespace Practices
                 if (data != null)
                 {
                     //Database logic
-                    //dateTimeProvider.DayOfWeek() 
+                    
                     if (DateTime.Today.DayOfWeek == DayOfWeek.Friday)
                     {
                         AddToData(data);
@@ -44,3 +44,4 @@ namespace Practices
         }
     }
 }
+//dateTimeProvider.DayOfWeek() 

@@ -1,0 +1,9 @@
+C:\Users\obege\Desktop\BowlingKata-SpecFlowJson-xUnit\Bowling\bin\Debug\netstandard2.0\Bowling.deps.json
+C:\Users\obege\Desktop\BowlingKata-SpecFlowJson-xUnit\Bowling\bin\Debug\netstandard2.0\Bowling.dll
+C:\Users\obege\Desktop\BowlingKata-SpecFlowJson-xUnit\Bowling\bin\Debug\netstandard2.0\Bowling.pdb
+C:\Users\obege\Desktop\BowlingKata-SpecFlowJson-xUnit\Bowling\obj\Debug\netstandard2.0\Bowling.csprojAssemblyReference.cache
+C:\Users\obege\Desktop\BowlingKata-SpecFlowJson-xUnit\Bowling\obj\Debug\netstandard2.0\Bowling.csproj.CoreCompileInputs.cache
+C:\Users\obege\Desktop\BowlingKata-SpecFlowJson-xUnit\Bowling\obj\Debug\netstandard2.0\Bowling.AssemblyInfoInputs.cache
+C:\Users\obege\Desktop\BowlingKata-SpecFlowJson-xUnit\Bowling\obj\Debug\netstandard2.0\Bowling.AssemblyInfo.cs
+C:\Users\obege\Desktop\BowlingKata-SpecFlowJson-xUnit\Bowling\obj\Debug\netstandard2.0\Bowling.dll
+C:\Users\obege\Desktop\BowlingKata-SpecFlowJson-xUnit\Bowling\obj\Debug\netstandard2.0\Bowling.pdb
